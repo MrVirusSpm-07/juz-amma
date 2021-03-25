@@ -23,7 +23,8 @@ echo $blue"*۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝
 echo $yellow"  ♦AUTHOR : DICKY ANDRE   ♦"
 echo $yellow"  ♦CNL YT : MR VIRUS SPM  ♦"
 echo $yellow"  ♦SCRIPT : JUZ AM'MA     ♦"
-echo $yellow"  ♦SOSMED : IG = MVS.X_X  ♦" echo $blue"*۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝*"
+echo $yellow"  ♦SOSMED : IG = MVS.X_X  ♦"
+echo $blue"*۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝*"
 sleep 1
 echo
 echo $green"INI HANYA SCRIPT JUZ AM'MA (khusus islam)"
