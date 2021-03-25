@@ -433,7 +433,7 @@ echo $red"sehingga mereka dijadikan-Nya seperti daun-daun yang dimakan (ulat)"
 echo
 sleep 2
 fi
-fi
+
 if [ $rob = 12 ]
 then
 clear
@@ -591,8 +591,9 @@ echo
 echo $white"Inna rabbahum bihim yauma 'izil la khabiir"
 echo $red"sungguh, Tuhan mereka pada hari itu Mahateliti terhadap keadaan mereka."
 echo
-fi
 sleep 1
+fi
+
 if [ $rob = 16 ]
 then
 clear
@@ -702,7 +703,7 @@ echo $red"Bukankah Allah hakim yang paling adil?"
 echo
 sleep 2
 fi
-if [ $rob = 18 ]
+if [ $rob = 19 ]
 then
 clear
 sleep 1
