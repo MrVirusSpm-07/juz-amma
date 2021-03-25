@@ -89,7 +89,7 @@ echo
 sleep 1
 echo
 echo $white"Qul a'uzu birabbin naas"
-echo $red"Katakanlah,Aku berlindung kepada Tuhannya manusi>
+echo $red"Katakanlah,Aku berlindung kepada Tuhannya manusia"
 echo
 echo $white"Malikin naas"
 echo $red"Raja manusia"
@@ -101,7 +101,7 @@ echo $white"Min sharril was waasil khannaas"
 echo $red"dari kejahatan (bisikan) setan yang bersembunyi"
 echo
 echo $white"Al lazii yuwas wisu fii suduurin naas"
-echo $red"yang membisikkan (kejahatan) ke dalam dada manus>
+echo $red"yang membisikkan (kejahatan) ke dalam dada manusia"
 echo
 echo $white"Minal jinnati wan naas"
 echo $red"dari (golongan) jin dan manusia."
@@ -136,13 +136,13 @@ echo $white"Maaliki Yawmid-Diin"
 echo $red"Pemilik hari pembalasan"
 echo
 echo $white"Iyyaaka na budu wa lyyaaka nasta iin"
-echo $red"Hanya kepada Engkaulah kami menyembah dan hanya >
+echo $red"Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami mohon pertolongan"
 echo
 echo $white"Ihdinas-Siraatal-Mustaqiim"
 echo $red"Tunjukilah kami jalan yang lurus"
 echo
-echo $white"Siraatal-laziina an'amta 'alaihim ghayril-magh>
-echo $red"(yaitu) jalan orang-orang yang telah Engkau beri>
+echo $white"Siraatal-laziina an'amta 'alaihim ghayril-maghduubi 'alaihim wa lad-daaalliin"
+echo $red"(yaitu) jalan orang-orang yang telah Engkau beri nikmat kepadanya; bukan (jalan) mereka yang dimurkai, dan bukan (pula jalan) mereka yang sesat"
 echo
 echo $blue"ALLAHMDILILAH SEMOGA BERKAH"
 echo $purple"################################"
@@ -163,19 +163,19 @@ echo $blue"*۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝
 echo
 sleep 1
 echo $white"Qul a'uzuu bi rabbil-falaq"
-echo $red"Katakanlah,Aku berlindung kepada Tuhan yang meng>
+echo $red"Katakanlah,Aku berlindung kepada Tuhan yang menguasai subuh"
 echo
 echo $white"Min sharri ma khalaq"
 echo $red"dari kejahatan (makhluk yang) Dia ciptakan,"
 echo
 echo $white"Wa min sharri ghasiqin iza waqab"
-echo $red"dan dari kejahatan malam apabila telah gelap gul>
+echo $red"dan dari kejahatan malam apabila telah gelap gulita"
 echo
 echo $white"Wa min sharrin-naffaa-thaati fil 'uqad"
-echo $red"dan dari kejahatan (perempuan-perempuan) penyihi>
+echo $red"dan dari kejahatan (perempuan-perempuan) penyihiryang meniup pada buhul-buhul (talinya),"
 echo
 echo $white"Wa min shar ri haasidin iza hasad"
-echo $red"dan dari kejahatan orang yang dengki apabila dia>
+echo $red"dan dari kejahatan orang yang dengki apabila dia dengki"
 echo
 sleep 1
 echo $blue"ALLAH HU AKBAR"
@@ -197,13 +197,13 @@ echo $blue"*۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝
 echo
 sleep 1
 echo $white"Qul huwal laahu ahad"
-echo $red"Katakanlah (Muhammad),Dialah Allah, Yang Maha Es>
+echo $red"Katakanlah (Muhammad),Dialah Allah, Yang Maha Esa"
 echo
 echo $white"Allah hus-samad"
 echo $red"Allah tempat meminta segala sesuatu"
 echo
 echo $white"Lam yalid wa lam yuulad"
-echo $red"(Allah) tidak beranak dan tidak pula diperanakka>
+echo $red"(Allah) tidak beranak dan tidak pula diperanakkan"
 echo
 echo $white"Wa lam yakul-lahu kufuwan ahad"
 echo $red"Dan tidak ada sesuatu yang setara dengan Dia."
@@ -227,16 +227,16 @@ echo $blue"*۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝
 echo
 sleep 1
 echo $white"Tab bat yadaa abii Lahabinw-wa tabb"
-echo $red"Binasalah kedua tangan Abu Lahab dan benar-benar>
+echo $red"Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia"
 echo
 echo $white"Maa aghna 'anhu maaluhu wa ma kasab"
-echo $red"Tidaklah berguna baginya hartanya dan apa yang d>
+echo $red"Tidaklah berguna baginya hartanya dan apa yang dia usahakan"
 echo
 echo $white"Sa yas laa naran zaata lahab"
-echo $red"Kelak dia akan masuk ke dalam api yang bergejola>
+echo $red"Kelak dia akan masuk ke dalam api yang bergejolak(neraka)"
 echo
 echo $white"Wam ra-atuh hamma latal-hatab"
-echo $red"Dan (begitu pula) istrinya, pembawa kayu bakar (>
+echo $red"Dan (begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah)"
 echo
 echo $white"Fii jiidiha hab lum mim-masad"
 echo $red"Di lehernya ada tali dari sabut yang dipintal"
@@ -260,13 +260,13 @@ echo $blue"*۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝
 echo
 sleep 1
 echo $white"Iza jaa-a nas rullahi walfath"
-echo $red"Apabila telah datang pertolongan Allah dan kemen>
+echo $red"Apabila telah datang pertolongan Allah dan kemenangan"
 echo
-echo $whute"Wa ra-aitan naasa yadkhuluuna fii diinil laahi>
-echo $red"dan engkau melihat manusia berbondong-bondong ma>
+echo $whute"Wa ra-aitan naasa yadkhuluuna fii diinil laahi afwaja"
+echo $red"dan engkau melihat manusia berbondong-bondong masuk agama Allah"
 echo
-echo $white"Fa sab bih bihamdi rabbika was taghfir, innahu>
-echo $red"maka bertasbihlah dengan memuji Tuhanmu dan moho>
+echo $white"Fa sab bih bihamdi rabbika was taghfir, innahu kaana tawwaaba"
+echo $red"maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat."
 echo
 sleep 1
 echo $blue"THANKS FOR YOU "
@@ -296,10 +296,10 @@ echo $white"Wa laa antum 'aabiduuna maa a'bud"
 echo $red"dan kamu bukan penyembah apa yang aku sembah,"
 echo
 echo $white"Wa laa ana 'abidum maa 'abattum"
-echo $red"dan aku tidak pernah menjadi penyembah apa yang >
+echo $red"dan aku tidak pernah menjadi penyembah apa yang aku sembah"
 echo
 echo $white"Wa laa antum 'aabiduuna ma a'bud"
-echo $red"dan kamu tidak pernah (pula) menjadi penyembah a>
+echo $red"dan kamu tidak pernah (pula) menjadi penyembah apa yang kamu sembah"
 echo
 echo $white"Lakum diinukum wa liya diin."
 echo $red"Untukmu agamamu, dan untukku agamaku."
@@ -323,13 +323,13 @@ echo $blue"*۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝
 echo
 sleep 1
 echo $white"Innaa a'taina kal kauthar"
-echo $red"Sungguh, Kami telah memberimu (Muhammad) nikmat yang        >
+echo $red"Sungguh, Kami telah memberimu (Muhammad) nikmat yang  banyak"
 echo
 echo $white"Fa salli li rabbika wanhar"
-echo $red"Maka laksanakanlah shalat karena Tuhanmu, dan berkurb       >
+echo $red"Maka laksanakanlah shalat karena Tuhanmu, berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah)."
 echo
 echo $white"Inna shani-aka huwal abtar"
-echo $red"Sungguh, orang-orang yang membencimu dialah yang terp       >
+echo $red"Sungguh, orang-orang yang membencimu dialah yang yang terputus (dari rahmat Allah)."
 sleep 1
 echo
 echo $blue"SALAM MR•VIRUS-SPM"
@@ -392,13 +392,13 @@ echo $white"Li-ilaafi quraish"
 echo $red"Karena kebiasaan orang-orang Quraisy,"
 echo
 echo $white"Ilaafihim rihlatash shitaa-i wass saif"
-echo $red"(yaitu) kebiasaan mereka bepergian pada musim dingin dan mus>
+echo $red"(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas"
 echo
 echo $white"Fal y'abudu rabba haazal-bait"
-echo $red"Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (K>
+echo $red"Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka'bah)"
 echo
 echo $white"Allazi at'amahum min ju'inw-wa-aamana hum min khawf"
-echo $red"yang telah memberi makanan kepada mereka untuk menghilangkan>
+echo $red"yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
 echo
 sleep 1
 fi
@@ -417,19 +417,19 @@ echo $blue"*۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝
 echo
 sleep 1
 echo $white"Alam tara kaifa fa'ala rabbuka bi ashaabil fiil"
-echo $red"Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu tela>
+echo $red"Tidakkah engkau (Muhammad) perhatikan bagaimana Tuhanmu telah  terhadap pasukan bergajah?"
 echo
 echo $white"Alam yaj'al kai dahum fii tad liil"
 echo $red"Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?"
 echo
 echo $white"Wa arsala 'alaihim tairan abaabiil"
-echo $red"dan Dia mengirimkan kepada mereka burung yang berbondong-bon>
+echo $red"dan Dia mengirimkan kepada mereka burung yang berbondong-bondong"
 echo
 echo $white"Tar miihim bi hi jaaratim min sij jiil"
-echo $red"yang melempari mereka dengan batu dari tanah liat yang dibak>
+echo $red"yang melempari mereka dengan batu dari tanah liat yang dibakar"
 echo
 echo $white"Faja 'alahum ka'asfim m'akuul"
-echo $red"sehingga mereka dijadikan-Nya seperti daun-daun yang dimakan>
+echo $red"sehingga mereka dijadikan-Nya seperti daun-daun yang dimakan (ulat)"
 echo
 sleep 2
 fi
@@ -453,8 +453,8 @@ echo
 echo $white"Innal insaana lafii khusr"
 echo $red"sungguh, manusia berada dalam kerugian,"
 echo
-echo $white"Il lal laziina aamanu wa 'amilus saali haati wa tawa saw b>
-echo $red"kecuali orang-orang yang beriman dan mengerjakan kebajikan s>
+echo $white"Il lal laziina aamanu wa 'amilus saali haati wa tawa saw bil haqqi wa tawa saw bis sabr"
+echo $red"kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
 echo
 sleep 2
 fi
@@ -478,7 +478,7 @@ echo $white"Hatta zurtumul-maqoobir"
 echo $red"sampai kamu masuk ke dalam kubur"
 echo
 echo $white"Kalla sawfa ta'lamuun"
-echo $red"Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbua>
+echo $red"Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatannya)"
 echo
 echo $white"Thumma kalla sawfa ta'lamuun"
 echo $red"kemudian sekali-kali tidak! Kelak kamu akan mengetahui"
@@ -490,10 +490,10 @@ echo $white"Latara-wun nal jahiim"
 echo $red"niscaya kamu benar-benar akan melihat neraka Jahim,"
 echo
 echo $white"Thumma latara wunnaha 'ainal yaqiin"
-echo $red"kemudian kamu benar-benar akan melihatnya dengan mata kepala>
+echo $red"kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri"
 echo
 echo $white"Thumma latus alunna yauma-izin 'anin na'iim"
-echo $red"kemudian kamu benar-benar akan ditanya pada hari itu tentang>
+echo $red"kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)."
 echo
 sleep 2
 fi
@@ -523,11 +523,13 @@ echo $white"Yauma ya kuunun naasu kal farashil mabthuuth"
 echo $red"Pada hari itu manusia seperti laron yang beterbangan,"
 echo
 echo $white"Wa ta kuunul jibalu kal 'ihnil manfuush"
-echo $red"dan gunung-gunung seperti bulu yang dihambur-hamburka>
+echo $red"dan gunung-gunung seperti bulu yang dihambur-hamburkan"
 echo
 echo $white"Fa-amma man thaqulat mawa ziinuh"
 echo $red"Maka adapun orang yang berat timbangan (kebaikan)nya,"
-echo                                                            echo $white"Fahuwa fii 'ishatir raadiyah"                       echo $red"maka dia berada dalam kehidupan yang memuaskan (senan>
+echo                                            
+echo $white"Fahuwa fii 'ishatir raadiyah"                       
+echo $red"maka dia berada dalam kehidupan yang memuaskan (senang)"
 echo
 echo $white"Wa amma man khaffat mawa ziinuh"
 echo $red"Dan adapun orang yang ringan timbangan (kebaikan)nya,"
