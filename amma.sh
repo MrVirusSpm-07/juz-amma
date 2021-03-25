@@ -644,7 +644,7 @@ echo $white"Wa akh rajatil ardu athqoolaha"
 echo $red"dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,"
 echo
 echo $white"Wa qoolal insaanu ma laha"
-echo $red"Dan manusia bertanya, "Apa yang terjadi pada bumi ini?"
+echo $red"Dan manusia bertanya, Apa yang terjadi pada bumi ini?"
 echo
 echo $white"Yawmaa idzin tuhad dithu akhbaaraha"
 echo $red"Pada hari itu bumi menyampaikan beritanya,"
@@ -692,7 +692,7 @@ echo
 echo $white"sthumma ra dad naahu asfala saafiliin"
 echo $red"kemudian Kami kembalikan dia ke tempat yang serendah-rendahnya"
 echo
-echo $white""Ill-lal laziina aamanuu wa 'amilus saalihaati; falahum ajrun ghairu mamnuun"
+echo $white"Ill-lal laziina aamanuu wa 'amilus saalihaati; falahum ajrun ghairu mamnuun"
 echo $red"kecuali orang-orang yang beriman dan mengerjakan kebajikan maka mereka akan mendapat pahala yang tidak ada putus-putusnya"
 echo
 echo $white"Fama yu kaz zibuka b'adu bid diin"
