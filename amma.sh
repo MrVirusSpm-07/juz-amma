@@ -20,10 +20,10 @@ echo $red"            ░▄█░█▀▀█▀▀▀█▀▀▀█▀▀█�
 sleep 1
 echo
 echo $blue"*۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝*"
-echo $yellow"  ♦AUTHOR : DICKY ANDRE   ♦"
-echo $yellow"  ♦CNL YT : MR VIRUS SPM  ♦"
-echo $yellow"  ♦SCRIPT : JUZ AM'MA     ♦"
-echo $yellow"  ♦SOSMED : IG = MVS.X_X  ♦"
+echo $yellow"  ♦AUTHOR : Panglima Jateng   ♦"
+echo $yellow"  ♦CNL YT : Mafia Teknologi   ♦"
+echo $yellow"  ♦SCRIPT : JUZ AM'MA         ♦"
+echo $yellow"  ♦SOSMED : IG = MVS.X_X      ♦"
 echo $blue"*۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝۝*"
 sleep 1
 echo
